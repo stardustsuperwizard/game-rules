@@ -16,6 +16,6 @@ indicate whether you made changes.
 
 Suggested attribution:
 
-> Game rules by stardustsuperwizard, licensed under [CC BY 4.0][cc-by].
+> Game rules by Michael David Miller, licensed under [CC BY 4.0][cc-by].
 
 [cc-by]: https://creativecommons.org/licenses/by/4.0/
